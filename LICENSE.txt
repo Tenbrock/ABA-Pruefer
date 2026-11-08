@@ -1,0 +1,24 @@
+PluginPrism ABA-Prüfer / ABA Checker
+
+(c) 2026 Jan Tenbrock
+
+DEUTSCH
+
+Freeware. Kostenlos nutzbar, auch gewerblich. Weitergabe nur unverändert und
+unentgeltlich. Die Nutzung erfolgt ohne Gewähr; eine Haftung für Schäden ist
+ausgeschlossen, soweit gesetzlich zulässig.
+
+ABB ist eine Marke der ABB. Dieses Programm ist kein Produkt der ABB.
+
+ENGLISH
+
+Freeware. Free to use, including commercial use. May be redistributed only
+unmodified and free of charge. Provided "as is", without warranty of any kind;
+no liability for damages to the extent permitted by law.
+
+ABB is a trademark of ABB. This program is not a product of ABB.
+
+THIRD-PARTY
+
+Contains parts of .NET, (c) .NET Foundation and Contributors, MIT license
+(https://github.com/dotnet/runtime/blob/main/LICENSE.TXT).
